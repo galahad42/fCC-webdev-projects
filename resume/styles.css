@@ -1,0 +1,75 @@
+.bold {
+    font-weight: bold;
+}
+
+.address {
+    font-size: 15px;
+    
+}
+
+.address p {
+    display: inline;
+    padding-right: 25px;
+    
+}
+
+body {
+    padding-left: 20px;
+    box-sizing: border-box ;
+}
+
+#relative {
+    position: relative;
+    top: -20px;
+    font-size: 20px;
+    border-bottom: solid ;
+    padding-bottom: 20px;
+}
+
+.years {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.caption {
+    font-style: italic;
+    font-size: 14px;
+    position: relative;
+    top: -15px;
+}
+
+.test {
+    
+    padding-bottom: 5px;
+}
+
+.relativec {
+    position: relative;
+    top: 5px;
+    left: 125px;
+}
+
+.relativecl {
+    position: relative;
+    top: 5px;
+    left: 125px;
+}
+
+h2 {
+    background-color: rgba(184, 173, 173, 0.734);
+}
+
+.rlhead {
+    position: relative;
+    left: 20px;
+    top: -20px
+}
+
+.relat {
+    position: relative;
+    left: -22px;
+}
+
+ul>li {
+    margin-bottom: 5px;
+}
